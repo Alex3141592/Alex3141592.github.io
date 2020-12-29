@@ -60,7 +60,7 @@ $$\dfrac {51}{100} <\dfrac {1}{p}+\dfrac {1}{q} <\dfrac {5}{6}$$
 
 #### Solución
 
-Si ambos primos son mayores o iguales a 4, la desigualdad \\(\frac {51}{100} <\frac {1}{p}+\frac {1}{q}\\) no se cumple, pues \\(\frac {1}{p}+\frac{1}{q} <\frac {1}{4}+\frac {1}{4}<\frac{1}{2}<\frac{51}{100}\\). Entonces, **SPG** suponemos que \\(p\le q\\). Esto significa que existen dos casos:
+Si ambos primos son mayores o iguales a 4, la desigualdad \\(\frac {51}{100} <\frac {1}{p}+\frac {1}{q}\\) no se cumple, pues \\(\frac {1}{p}+\frac{1}{q}\\) \\(<\frac {1}{4}+\frac {1}{4}\\) \\(<\frac{1}{2}<\frac{51}{100}\\). Entonces, **SPG** suponemos que \\(p\le q\\). Esto significa que existen dos casos:
 
 1. \\(p=2\\)
    
