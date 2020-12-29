@@ -7,10 +7,7 @@ permalink: /
 last_modified_date: 2020-08-17T09:00:00+0000
 ---
 
-
-# ¡Nueva lista!
+# Alex-3141592
 {:.fs-9}
 
-Consulta la lista POLYNOMM [*Tres problemas de Geo*](https://polynomm.github.io/0-Listas-POLYNOMM/2020/11/16-Tres-problemas-de-Geo/).
-
-Este sitio está en construcción, pero los <span class="deg-sitio deg-sitio-texto">Escritores</span> y la c<span class="deg-sitio deg-sitio-texto">omm</span>unidad están comprometidos a hacerlo crecer para el beneficio de todos.
+Este sitio servirá para consulta posterior, apuntes universitarios, etc. Las cosas olímpicas van en la sección **Olimpiadas**.
