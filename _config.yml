@@ -16,7 +16,7 @@
 title: <span class="deg-sitio deg-sitio-texto">$$a_{n}x^n+\dots+a_0$$</span>
 description: Página oficial
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://polynomm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://alex-3141592.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
