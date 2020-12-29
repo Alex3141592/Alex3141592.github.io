@@ -117,11 +117,11 @@ Ajuste para deg-sitios según tema
     }
   }
 
-  //Esto es el botón inicial con pseudoclase before. Sirve para agregar el texto de POLYNOMM
+  //Esto es el botón inicial con pseudoclase before. Sirve para agregar el texto de Alex
   .site-title.lh-tight:hover::before,
   .site-title.lh-tight:active::before {
     position: absolute;
-    content: "POLYNOMM";
+    content: "Alex";
   }
   .site-title.lh-tight:hover mjx-container,
   .site-title.lh-tight:active mjx-container {
@@ -198,5 +198,10 @@ Ajuste para deg-sitios según tema
     @include deg(map-get($colores-deg-sitio, deg-sitio));
     @include deg-fondo(map-get($colores-deg-sitio, deg-sitio));
     background-color: #fff;
+  }
+
+  //Para enlaces normales
+  .main-content a {
+    display: inline-flex;
   }
 }
