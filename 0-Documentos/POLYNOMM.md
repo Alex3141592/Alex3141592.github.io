@@ -60,7 +60,7 @@ Este sitio tiene dos principios de desarrollo: simplicidad y estética, porque..
 
 ## Desarrollo y propiedad.
 
-Este sitio es personal, propiedad de Alexis Jonathan Dorantes Vázquez, cuyo contenido tiene libre acceso para todos. El desarrollador utilizó diversos componentes, cuyas licencias exigen que este sitio no pertenezca a una organización, dependencia, ONG, y un largo etcéeeetera que, además, incluye muchas condiciones (las cuales no deben infringirse).
+Este sitio es personal, propiedad de Alex J. D. V. El propietario otorgará autorización para el uso del contenido. El desarrollador utilizó diversos componentes, cuyas licencias exigen que este sitio no pertenezca a una organización, dependencia, ONG, y un largo etcéeeetera que, además, incluye muchas condiciones (las cuales no deben infringirse).
 
 Sin embargo, esto no afecta tu experiencia en el sitio.
 
