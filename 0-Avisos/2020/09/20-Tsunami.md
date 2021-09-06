@@ -8,11 +8,6 @@ grand_parent: Avisos
 parent: Avisos 2020
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/just-the-docs-degArcoiris.css' | absolute_url }}">
-<script>
-    jtd.setTheme('degArcoiris');
-</script>
-
 # Tsunami: una ola de cambios llega a POLYN<span class="deg-sitio deg-sitio-texto">OMM</span><i class="jpa-all-default-rel-smiling_face_with_hearts_with_face_mask jpa-2em"></i>
 {:.fs-9 .no_toc}
 

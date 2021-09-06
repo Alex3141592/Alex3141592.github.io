@@ -7,11 +7,6 @@ parent: Documentos
 nav_order: 1
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/just-the-docs-degRosa.css' | absolute_url }}">
-<script>
-    jtd.setTheme('degRosa');
-</script>
-
 # ¡Esto es POLYN<span class="deg-sitio deg-sitio-texto">OMM</span>.github.io! <i class="jpa-anim-rel-partying_face jpa-2em"></i>
 {:.fs-9}
 

@@ -7,11 +7,6 @@ parent: Documentos
 nav_order: 3
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/just-the-docs-degNaranja.css' | absolute_url }}">
-<script>
-    jtd.setTheme('degNaranja');
-</script>
-
 # ¿Cómo se edita el contenido en POLYN<span class="deg-sitio deg-sitio-texto">OMM</span>?<i class="jpa-anim-rel-nerd_face jpa-2em"></i>
 {:.fs-9}
 

@@ -8,11 +8,6 @@ parent: Olimpiadas
 has_children: true
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/just-the-docs-degVerde.css' | absolute_url }}">
-<script>
-    jtd.setTheme('degVerde');
-</script>
-
 # Olimpiadas <span class="deg-sitio deg-sitio-texto"> 2021</span><i class="jpa-anim-rel-nerd_face jpa-2em"></i>
 {:.fs-9}
 

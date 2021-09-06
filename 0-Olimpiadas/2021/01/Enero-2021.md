@@ -8,11 +8,6 @@ grand_parent: Olimpiadas
 parent: Olimpiadas 2021
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/just-the-docs-degAzul.css' | absolute_url }}">
-<script>
-    jtd.setTheme('degAzul');
-</script>
-
 # <span class="deg-sitio deg-sitio-texto">Enero 2021</span><i class="jpa-anim-rel-fire jpa-2em"></i>
 {:.fs-9 .no-toc}
 
@@ -20,10 +15,6 @@ parent: Olimpiadas 2021
 {:.fs-6 .fw-300}
 
 ---
-
-## <span class="deg-sitio deg-sitio-texto">Álgebra</span>
-
-## <span class="deg-sitio deg-sitio-texto">Combinatoria</span>
 
 ## <span class="deg-sitio deg-sitio-texto">Geometría</span>
 
@@ -140,30 +131,3 @@ $$
 {:.math}
 
 Dado que \\(a\\), \\(b\\) y \\(c\\) son enteros positivos, \\(4bc\\) debe ser un cuadrado perfecto, por lo tanto, \\(bc\\) es un cuadrado perfecto. De manera análoga, \\(ca\\) y \\(ab\\) son cuadrados perfectos, y se demuestra que \\(a\\), \\(b\\) y \\(c\\) son coprimos par a par como en la solución 1 para concluir.
-
-## <span class="deg-sitio deg-sitio-texto">Especiales</span>
-
-
-
-### Problema &nbsp;<span class="deg-sitio deg-sitio-texto">4</span>
-{: .no_toc}
-
-<!-- Art of Problem Solving. (s. f.). AoPS. https://artofproblemsolving.com/wiki/index.php/1990_AIME_Problems/Problem_15 -->
-
-
-### Problema &nbsp;<span class="deg-sitio deg-sitio-texto">5</span>
-{: .no_toc}
-
-<!--Math Message Boards FAQ & Community Help | AoPS. (2019, 7 agosto). AoPS. https://artofproblemsolving.com/community/c4h1890517p12898772-->
-
-
-
-### Problema &nbsp;<span class="deg-sitio deg-sitio-texto">6</span>
-{: .no_toc}
-
-
-
-### Problema &nbsp;<span class="deg-sitio deg-sitio-texto">7</span>
-{: .no_toc}
-
-<!--Math Message Boards FAQ & Community Help | AoPS. (2010, 19 noviembre). AoPS. https://artofproblemsolving.com/community/c6t281f6h378543_symmetric_simultaneous_equations_of_degree_2010-->

@@ -5,7 +5,7 @@ $colores-deg-sitio: (
   alter-sitio-texto-color: #fff,
 ) !default;
 @media only screen and (min-width: map-get($media-queries,md)) {
-  .deg-sitio {
+  [class*="deg-sitio"] {
     @include deg(map-get($colores-deg-sitio, deg-sitio));
   }
 
@@ -34,7 +34,7 @@ Ajuste para deg-sitios según tema
   h4:hover,
   h5:hover,
   h6:hover {
-    a {
+    a.anchor-heading {
       //Los símbolos junto a los encabezados (svg) son el contenido
       -webkit-background-clip: content-box;
       //Se coloca mix blend mode en svg para que cambie a deg-sitio.
@@ -117,11 +117,11 @@ Ajuste para deg-sitios según tema
     }
   }
 
-  //Esto es el botón inicial con pseudoclase before. Sirve para agregar el texto de Alex
+  //Esto es el botón inicial con pseudoclase before. Sirve para agregar el texto de POLYNOMM
   .site-title.lh-tight:hover::before,
   .site-title.lh-tight:active::before {
     position: absolute;
-    content: "Alex";
+    content: "POLYNOMM";
   }
   .site-title.lh-tight:hover mjx-container,
   .site-title.lh-tight:active mjx-container {
@@ -203,5 +203,25 @@ Ajuste para deg-sitios según tema
   //Para enlaces normales
   .main-content a {
     display: inline-flex;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  h1:hover,
+  h2:hover,
+  h3:hover,
+  h4:hover,
+  h5:hover,
+  h6:hover {
+    a.anchor-heading {
+      //Los símbolos junto a los encabezados (svg) son el contenido
+      -webkit-background-clip: content-box;
+      //Se coloca mix blend mode en svg para que cambie a deg-sitio.
+      svg {
+        color: #fff;
+        background: $body-background-color;
+        mix-blend-mode: darken;
+      }
+    }
   }
 }

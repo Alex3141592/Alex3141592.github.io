@@ -7,11 +7,6 @@ parent: Documentos
 nav_order: 2
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/just-the-docs-degVerde.css' | absolute_url }}">
-<script>
-    jtd.setTheme('degVerde');
-</script>
-
 # Las funciones de POLYN<span class="deg-sitio deg-sitio-texto">OMM</span><i class="jpa-anim-rel-partying_face jpa-2em"></i>
 {:.fs-9}
 
